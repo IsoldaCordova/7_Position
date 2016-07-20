@@ -1,0 +1,33 @@
+.uno{
+	height: 200px;
+	width: 200px;
+	background-color: aqua;
+	position: absolute;
+}
+.dos{
+	height: 200px;
+	width: 200px;
+	background-color: #7FFF00;
+	position: absolute;
+	left: 310px;
+}
+.tres{
+	height: 200px;
+	width: 200px;
+	background-color: crimson;
+	position: absolute;
+	top:300px;
+}
+.cuatro{
+	height: 200px;
+	width: 200px;
+	background-color: darkcyan;
+	position: absolute;
+	left:310px;
+}
+
+body{
+	margin: 0;
+	padding: 0;
+}
+
